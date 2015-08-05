@@ -9,7 +9,7 @@
 
  타 스터디원분들의 소스코드를 참조 하셔도 됩니다. 
 
-##Android Study 팀 소개
+## 팀 소개
 * Android - 안드로이드 스터디 (중급 / 초급) 입니다.
 * Advanced Android Study - 안드로이드 (고급) 입니다.
 * IOS - ioS관련 스터디 팀 입니다.

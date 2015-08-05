@@ -27,3 +27,7 @@
 
 ##본 Group은 향후 진행되는 GDG Incheon Study 에서도 지속적으로 사용 할 예정 입니다.
 
+
+# How To Join
+* Private - 이메일로 깃헙 아이디 / 이름 / 소속 / 스터디 팀 을 보내 주세요.
+* Public - GDG Incheon 에서 운영하는 스터디에 가입 하시면 됩니다.

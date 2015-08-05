@@ -7,10 +7,10 @@
  또한 묻고 싶은 이슈들이나 질문 같은 경우는 Issue란에 올려주시거나 진행에 있어 어려운점은
  스터디원분들의 소스코드를 참조 하셔도 됩니다.
 
-##Android Study 그룹 소개
-* 초급 - Junior     - Android Development for Beginners
-* 중급 - Major      - Developing Android App
-* 고급 - Advenced   - Advanced Android App Development
+##Android Study 팀 소개
+* Android - 안드로이드 스터디 입니다.
+* Advanced Android Study - 안드로이드 고급반 입니다.
+* IOS - ioS관련 스터디 팀 입니다.
 * 으로 나뉘어져 있습니다.
 
 ##스터디 시간 / 장소
@@ -19,5 +19,5 @@
 #Android
 
 
-##본 Group은 향후 GDG Incheon Study 에서도 지속족으로 사용 할 예정 입니다.
+##본 Group은 향후 GDG Incheon Study 에서도 지속적으로 사용 할 예정 입니다.
 
